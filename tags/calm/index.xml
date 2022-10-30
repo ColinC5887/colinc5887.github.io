@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calm on Cheng Music</title>
+    <link>https://ColinC5887.github.io/tags/calm/</link>
+    <description>Recent content in Calm on Cheng Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ColinC5887.github.io/tags/calm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roll With It</title>
+      <link>https://ColinC5887.github.io/post/001-roll-with-it/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ColinC5887.github.io/post/001-roll-with-it/</guid>
+      <description>About the game The theme of this Jam is Roll Of The Dice. Our team made a game that consisted of 6 mini-games. Each time the dice is rolled, the player is switched to a different game. Well, there are:
+Serve: Serve the right food to the right customer, but do it quickly or they will get angry! Avoid: The objective is simple - avoid the bullets! Jump: Jump over the obstacles, and try not to die Count: Match the number on the screen with the amount of dots on the dice before the time runs out!</description>
+    </item>
+    
+  </channel>
+</rss>

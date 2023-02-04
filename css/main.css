@@ -5,7 +5,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: #FFF;
+  background: #F5F5F5;
   display: flex;
   flex-flow: column;
   height: 100vh;
@@ -144,6 +144,7 @@ figure:not(.dark) img, img.white {
   height: 50%;
   box-shadow: 3px 3px 5px #999999;
   margin-bottom: 5px;
+  border-radius: 12px;
 }
 
 .disqus-comments {
@@ -159,7 +160,7 @@ figure:not(.dark) img, img.white {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F5F5F5;
+  background: #F0F0F0;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }

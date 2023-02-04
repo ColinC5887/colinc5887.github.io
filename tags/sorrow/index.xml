@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sorrow on Cheng Music</title>
+    <link>https://ColinC5887.github.io/tags/sorrow/</link>
+    <description>Recent content in Sorrow on Cheng Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ColinC5887.github.io/tags/sorrow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Way To Past</title>
+      <link>https://ColinC5887.github.io/post/004-way-to-past/</link>
+      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ColinC5887.github.io/post/004-way-to-past/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a set of tracks for a 2D puzzle game.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
